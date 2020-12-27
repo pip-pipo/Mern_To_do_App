@@ -1,0 +1,17 @@
+{
+  "name": "mern_to_do_app",
+  "version": "1.0.0",
+  "description": "mern app to do",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "mern",
+    "app",
+    "mern",
+    "todo"
+  ],
+  "author": "imran",
+  "license": "ISC"
+}
